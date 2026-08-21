@@ -145,7 +145,7 @@ de **283 regras determinísticas** que audita o repositório inteiro — seguran
 infraestrutura, qualidade, dívida, dados — e é passo bloqueante no CI. O LLM só entra
 quando a regra determinística não decide.
 
-Ele é público: **[batman-os](https://github.com/vieiragomesrodrigo98-sketch/batman-os)**.
+Ele é público: **[batman-os](https://github.com/rodrigogvieira98/batman-os)**.
 
 ---
 
@@ -155,8 +155,8 @@ Duas fatias reais, executáveis, com CI verde:
 
 | Repositório | O que é |
 |---|---|
-| **[cerebro-quant](https://github.com/vieiragomesrodrigo98-sketch/cerebro-quant)** | O núcleo de decisão: os 5 portões, o orçamento derivado, o ranking transversal. 597 testes, roda sem banco nem rede. |
-| **[batman-os](https://github.com/vieiragomesrodrigo98-sketch/batman-os)** | A governança: 283 regras determinísticas, 1.500+ testes, `mypy --strict` limpo. |
+| **[cerebro-quant](https://github.com/rodrigogvieira98/cerebro-quant)** | O núcleo de decisão: os 5 portões, o orçamento derivado, o ranking transversal. 597 testes, roda sem banco nem rede. |
+| **[batman-os](https://github.com/rodrigogvieira98/batman-os)** | A governança: 283 regras determinísticas, 1.500+ testes, `mypy --strict` limpo. |
 
 O restante — ingestão, feature stores, API, frontend, integração de LLM, camada de
 execução e o histórico de pesquisa — é fechado.

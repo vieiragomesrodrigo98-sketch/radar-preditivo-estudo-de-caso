@@ -146,7 +146,7 @@ Working alone, there is no reviewer. So the reviewer became code: a separate sys
 quality, debt, data — and is a blocking step in CI. The LLM only steps in when the
 deterministic rule cannot decide.
 
-It is public: **[batman-os](https://github.com/vieiragomesrodrigo98-sketch/batman-os)**.
+It is public: **[batman-os](https://github.com/rodrigogvieira98/batman-os)**.
 
 ---
 
@@ -156,8 +156,8 @@ Two real, runnable slices with green CI:
 
 | Repository | What it is |
 |---|---|
-| **[cerebro-quant](https://github.com/vieiragomesrodrigo98-sketch/cerebro-quant)** | The decision core: the 5 gates, the derived budget, the cross-sectional ranking. 597 tests, runs with no database and no network. |
-| **[batman-os](https://github.com/vieiragomesrodrigo98-sketch/batman-os)** | The governance layer: 283 deterministic rules, 1,500+ tests, `mypy --strict` clean. |
+| **[cerebro-quant](https://github.com/rodrigogvieira98/cerebro-quant)** | The decision core: the 5 gates, the derived budget, the cross-sectional ranking. 597 tests, runs with no database and no network. |
+| **[batman-os](https://github.com/rodrigogvieira98/batman-os)** | The governance layer: 283 deterministic rules, 1,500+ tests, `mypy --strict` clean. |
 
 The rest — ingestion, feature stores, API, frontend, LLM integration, execution layer and
 the research history — is closed.
